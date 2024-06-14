@@ -25,4 +25,10 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=ldearsley2&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,neovim,apple,py,terraform,mongodb,gcp" />
+  </a>
+</p>
+
 ###
