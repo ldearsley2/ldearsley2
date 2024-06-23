@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 <h3 align="center">🤔 Working on 🤔</h3>
 
